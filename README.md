@@ -1,2 +1,3 @@
 # ppocr
-Simple retrained model ppocr using dict-guided of VinAIResearch
+Simple retrained model PPOCR using dict-guided data of VinAIResearch
+link data: https://github.com/VinAIResearch/dict-guided
